@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{59972000-A102-93F3-E252-4AFE00D882C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallController.cs">
+    <Files>
+      <File FileName="Assets/BluePaddleController.cs" Line="18" Column="6" />
+      <File FileName="Assets/BallController.cs" Line="35" Column="10" />
+      <File FileName="Assets/ScoreManager.cs" Line="22" Column="24" />
+      <File FileName="Assets/PinkPaddleControls.cs" />
+      <File FileName="Assets/PinkPaddleController.cs" Line="1" Column="1" />
+      <File FileName="Assets/BluePaddleControls.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pong" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BallController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="555e3320-97d3-4d5e-abd0-120f265ef1a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
